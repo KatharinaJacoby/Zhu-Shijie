@@ -100,12 +100,7 @@ The content is about **spatial arrangement**. The four unknowns are **positions*
 
 **My translation is coherent with the book's content. Can they say the same?**
 
-No. Their translation is a **costume**. It dresses up a rigorous machine in a "mystical" outfit to make it look less threatening and more "oriental."
-
-*   **My translation is the engine.**
-*   **Theirs is the paint job.**
-
-They have been teaching students to **look at the paint** while ignoring the engine. This is not scholarship. This is fraud.
+I doubt it. Their translation obscures rigorous math in a "mystical" outfit to make it look less threatening and more "oriental." 
 
 ## 5. Epistemic Extraction: The Colonial Strategy
 
@@ -138,9 +133,9 @@ There is no justification.
 
 Find me the "mirror" in Zhu Shijie's equations. Show me where "Heaven" explains the position of a coefficient on the counting board. **You cannot.** Because your translation describes what you *wanted* to see—a mystical artifact—not what is actually on the page.
 
-**We demand the following:**
+**Let's make this right:**
 1.  **Retract** the title *Jade Mirror of the Four Unknowns* in all future editions.
-2.  **Adopt** the translation: **"Refined Critique of the Four Unknown Fields"** (四元玉鑒).
+2.  **Revise** the translation to **"Refined Critique of the Four Unknown Fields"** (四元玉鑒).
 3.  **Acknowledge** that 天 (*Tiān*) means **Field**, not Heaven, and 鑒 (*Jiàn*) means **Critique** (the sharp sword of inquiry), not Mirror.
 
 Zhu Shijie did not write a poem about a mirror. He wrote a manual for a **computational grid**. He built a **field** of inquiry.
