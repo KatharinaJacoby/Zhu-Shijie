@@ -72,17 +72,17 @@ The "Jade Mirror" translation tells you to **admire** the math. The original tex
 
 ## 4. The Test of Coherence: Which Translation Actually Fits the Book?
 
-Let us settle this definitively. Open the *Sìyuán Yùjiàn*. Read the pages. Now ask: **Which translation describes what is actually there?**
+If you open the *Sìyuán Yùjiàn* and read the pages- ask yourself: **Which translation describes what is actually there?**
 
 ### 4.1 The "Mirror" Fails the Math
 
 If the book were truly about a "mirror," the content would teach **observation**, **reflection**, or **static representation**.
 
-**It does not.**
+**But it does not.**
 
 The book is a manual for **calculation**. It teaches how to set up equations, manipulate coefficients on a counting board, and solve for roots. You cannot "reflect" on a polynomial equation to solve it. You must **operate** on it.
 
-*   **My Translation:** "Critique" (active examination) fits the content. The book *critiques* the limits of solvability. It tests boundaries.
+*   **A more aligned Translation:** "Critique" (active examination) fits the content. The book *critiques* the limits of solvability. It tests boundaries.
 *   **Their Translation:** "Mirror" implies the book is a picture of math, not the math itself. **They are selling a picture when the book is a tool.**
 
 ### 4.2 The "Heaven" Fails the Grid
